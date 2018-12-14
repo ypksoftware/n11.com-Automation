@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"C:/Users/User/IdeaProjects/web.n11/specs/ProdLogin.spec"
+	]
+}
